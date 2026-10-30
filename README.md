@@ -1,5 +1,9 @@
 # documenso-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/documenso-or-just-updated-docusign-alter?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Documenso template](https://railway.com/deploy/documenso-or-just-updated-docusign-alter?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 A thin wrapper over the official [Documenso](https://github.com/documenso/documenso) image
 (`documenso/documenso:v2.16.0`) that makes a one-click Railway deploy actually usable.
 
